@@ -10,6 +10,23 @@ Drop in a map screenshot and the tool instantly highlights any pixels matching t
 
 **No installation. No server. No sign-up. Your images never leave your browser.**
 
+## Example Result
+
+This example uses a PNG map screenshot with:
+
+- Tolerance: **1 (Strict)**
+- Line thickness: **2 px**
+- Highlight strength: **100%**
+- Min cluster: **4 px**
+
+| Before | After: red overlay |
+|--------|--------------------|
+| ![Original Forza Horizon map screenshot](assets/example-before.png) | ![FH Road Finder red overlay result](assets/example-after-overlay.png) |
+
+For very small missing roads, the **Black** output mode can make tiny detections easier to spot:
+
+![FH Road Finder black highlight mask](assets/example-black-mask.png)
+
 ## How It Works
 
 1. Open the tool in any modern browser (Chrome, Edge, Firefox).
