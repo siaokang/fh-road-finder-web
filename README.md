@@ -1,3 +1,5 @@
+> **DISCLAIMER:** This tool is NOT meant to ruin the fun of exploring — it's meant to save your sanity when you're stuck at 99% roads discovered and can't find that last tiny segment!
+
 # FH6 Screenshot Road Finder
 
 **[Try it live](https://thisisskay.github.io/fh-road-finder-web/)**
